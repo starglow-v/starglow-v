@@ -40,14 +40,6 @@ Here are some ideas to get you started:
 - **Data Engineering and Visualization**: Building robust data pipelines and creating insightful visualizations.
 - **AI Deployment**: Strategies for deploying AI models and solutions at scale.
 
-### 📫 How to reach me:
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **GitHub:** [Cody Allen Green](https://github.com/your-username)
-
-### 😄 Pronouns:
-- He/Him
-
 ### ⚡ Fun fact:
 - I once built a predictive model that helped improve stock trading strategies, which led to significant gains in investment returns!
 
