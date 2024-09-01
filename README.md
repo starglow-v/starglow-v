@@ -2,51 +2,36 @@
 
 Welcome to my GitHub profile! I'm Starglow V, a passionate AI and Machine Learning developer with over 9 years of experience in the field. I specialize in creating innovative solutions and advancing AI technologies across various domains.
 
-<!--
-**starglow-v/starglow-v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### 🔭 I’m currently working on:
-- **Predictive Analytics for Financial Markets**: Developing predictive models using LSTM networks for stock price forecasting.
-- **Healthcare Diagnostics**: Building deep learning models for automated medical image analysis.
-- **E-commerce Recommendation System**: Designing recommendation engines using collaborative filtering and content-based methods.
-- **Chatbot for Customer Support**: Creating conversational AI chatbots using transformer models for customer interactions.
+- **Predictive Analytics for Financial Markets**
+- **Healthcare Diagnostics**
+- **E-commerce Recommendation System**
+- **Chatbot for Customer Support**
 
 ### 🌱 I’m currently learning:
-- **Advanced Reinforcement Learning**: Exploring techniques and applications of reinforcement learning in various domains.
-- **AI Ethics and Fairness**: Studying the ethical implications and fairness of AI technologies to ensure responsible AI development.
+- **Advanced Reinforcement Learning**
+- **AI Ethics and Fairness**
 
 ### 👯 I’m looking to collaborate on:
-- **Innovative AI Projects**: Exciting opportunities to build and deploy cutting-edge AI solutions.
-- **Open Source Contributions**: Contributing to open-source AI and ML projects to drive community advancements.
+- **Innovative AI Projects**
+- **Open Source Contributions**
 
 ### 🤔 I’m looking for help with:
-- **Integrating New Technologies**: Seeking advice on integrating emerging AI technologies and tools into current projects.
-- **Scaling ML Models**: Improving the scalability and efficiency of machine learning models and systems.
+- **Integrating New Technologies**
+- **Scaling ML Models**
 
 ### 💬 Ask me about:
-- **Machine Learning Techniques**: From supervised learning to advanced deep learning architectures.
-- **Data Engineering and Visualization**: Building robust data pipelines and creating insightful visualizations.
-- **AI Deployment**: Strategies for deploying AI models and solutions at scale.
+- **Machine Learning Techniques**
+- **Data Engineering and Visualization**
+- **AI Deployment**
 
 ### ⚡ Fun fact:
-- I once built a predictive model that helped improve stock trading strategies, which led to significant gains in investment returns!
+- I once built a predictive model that helped improve stock trading strategies, leading to significant gains in investment returns!
 
 ### 🔧 Technical Skills:
 
 #### **Programming Languages:**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white) ![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat&logo=scala&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white) ![Scala](https://img.shields.io/badge/-Scala-DC322F?style=flat&logo=scala&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7E018?style=flat&logo=javascript&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
 #### **Machine Learning Frameworks:**
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white) ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
